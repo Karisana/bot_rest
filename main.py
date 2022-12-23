@@ -9,8 +9,8 @@ import files_xl
 from db import Database
 from send import SendAdmin
 
-bot = telebot.TeleBot('5700408483:AAGRXjw1Jac9IPXZLyMyoHilHO7wCFUjOM4')
-# bot = telebot.TeleBot('997476739:AAHntotVGpgE2mISTeNrI0gVAFpsdQQoths') #ТЕСТ
+bot = telebot.TeleBot('сюда токен')
+
 # база данных
 db = Database('database.db')
 
